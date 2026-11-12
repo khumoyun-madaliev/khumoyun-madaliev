@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Khumoyun 👋
 
-<!--
-**khumoyun-madaliev/khumoyun-madaliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web & Telegram bot developer. I build booking systems, websites and bots for small businesses.
 
-Here are some ideas to get you started:
+- 🛠 **Stack:** JavaScript · Cloudflare Workers · SQL (D1 / SQLite) · Telegram Bot API · HTML / CSS
+- 🌍 **Languages:** Russian · English · Uzbek · Tajik. I can build multilingual sites and bots.
+- 🎓 Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⭐ Featured project
+
+**[Usta Barber](https://github.com/khumoyun-madaliev/usta-barber)** is a booking website, admin panel and Telegram bot for a barbershop.
+
+- Online booking: service → barber → date and time
+- Telegram bot with reminders 24 h and 2 h before the visit
+- Admin panel for bookings, barbers, services and prices
+- Double booking is blocked by the database. Strict security: CSP, rate limits, signed cookies.
+- Site in Uzbek, Russian and Tajik
+
+---
+
+### 📫 Contact
+
+- Telegram: [@humoyun_madaliev](https://t.me/humoyun_madaliev)
+
+Open to freelance work: Telegram bots and websites for small businesses.
